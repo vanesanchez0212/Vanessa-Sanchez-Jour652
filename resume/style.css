@@ -95,7 +95,10 @@ BODY{
   padding: 0px 0px 0px 0px;
   list-style-type:none;
   display: inline;
-  
+  text-align: center;
+}
+
+ul {text-align: center;
 }
 
 .degrees {
@@ -110,9 +113,4 @@ BODY{
   min-width: 300px;
   margin:0 auto;
   margin-bottom: 30px;
-}
-
-.menu {
-  align: center;
-
 }
