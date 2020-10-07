@@ -31,7 +31,7 @@ BODY{
   text-transform: uppercase;
   font-size: 1.5em;
   text-align: center;
-  font-weight: 600;
+  font-weight: bold;
   text-align: center;
   margin-top: 20px;
   margin-bottom: 0px;
@@ -55,8 +55,8 @@ BODY{
 }
 
 .jobtitle {
-  font-size: 1.5em;
-  font-weight:bold 600;
+  font-size: 2em;
+  font-weight:bold;
   font-style: normal;
 
 }
@@ -95,6 +95,7 @@ BODY{
   padding: 0px 0px 0px 0px;
   list-style-type:none;
   display: inline;
+  
 }
 
 .degrees {
@@ -109,4 +110,9 @@ BODY{
   min-width: 300px;
   margin:0 auto;
   margin-bottom: 30px;
+}
+
+.menu {
+  align: center;
+
 }
