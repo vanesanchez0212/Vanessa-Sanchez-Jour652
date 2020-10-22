@@ -1,0 +1,62 @@
+#content {
+width:100%;
+margin: 0 auto;
+width: 900px;}
+
+.masthead{
+  width:100%;
+  margin: 0 auto;
+  width: 900px;
+}
+
+
+p{
+font-size: 14px;
+font-family: Helvetica,arial,sans-serif;
+}
+
+h1{
+font-size: 20px;
+font-family: helvetica,Arial,sans-serif;
+
+}
+
+h2{
+font-size: 16px;
+font-family: helvetica, georgia, sans-serif;
+}
+
+#byline {
+font-family: helvetica,georgia, sans-serif;
+font-style: italic;
+font-size: 10px;
+padding-top: 0px;
+padding-bottom: 0px;
+color: #8330DA;
+}
+
+.rapinoe{
+  width:100%;
+  margin: 0 auto;
+  padding-bottom: 0px;
+  padding-top: 25px;
+  width: 900px;
+}
+
+.caption{
+  font-size: 8px;
+  padding-top: 0px;
+}
+
+blockquote{
+  width: 300px;
+  font-size: 17px;
+  font: Montserrat;
+  font-style:italic;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  color: #B330DA
+  padding-left: 5px;
+  float:left;
+
+}
