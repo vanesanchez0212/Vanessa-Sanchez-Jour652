@@ -11,7 +11,7 @@
 
 .intro{
   font-size: 20px;
-  font-family: georgia, montserrat, sans-serif;
+  font-family: montserrat, georgia, sans-serif;
   padding-left: 25px;
   padding-right: 25px;
 }
@@ -30,8 +30,9 @@
   padding-left: 25px;
 }
 
-.boton{
+.button{
   padding-left: 25px;
+  padding-top: 10px;
 }
 
 .col-md-6{
@@ -39,11 +40,7 @@
   padding-top: 10px;
 }
 
-h1{
-  font-size: px;
-  font-family: georgia, montserrat, sans-serif;
-  padding-left: 500px;
-}
+
 
 li{
   list-style-type: none;
@@ -52,11 +49,11 @@ li{
 
 h2{
   padding-top: 20px;
-  font-size: 30px;
+  font-size: 25px;
 }
 
 h3{
-  font-size: 25px;
+  font-size: 20px;
   color: #550066;
 }
 
@@ -64,11 +61,16 @@ h3{
 h4{
   font-style: italic;
   font-weight: lighter;
-  font-size: 20px;
+  font-size: 18px;
 }
 
 h5{
   font-size: 15px;
+}
+
+p{
+  font-size: 14px;
+  font-family: montserrat, georgia, sans-serif;
 }
 
 footer{
