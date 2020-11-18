@@ -1,0 +1,49 @@
+.headline{
+  font-size: 3em;
+  font-weight: 700;
+  text-align: center;
+  font-family: Montserrat, sans-serif;
+}
+
+.byline{
+  font-size: 1em;
+  text transform: uppercase;
+  font-family: Montserrat, sans-serif;
+  text-align: center;
+}
+
+p{
+  font-family: georgia, serif;
+  line-height: 180%;}
+
+h1{
+  font-size: 2em;
+  font-weight: 700;
+  font-family: Montserrat, sans-serif;
+}
+
+
+.caption{
+  font-family: georgia, serif;
+  font-size: 0.7em;
+  padding-left: 15%
+}
+
+.row{
+  text-align: center;
+  padding-bottom: 25px;
+}
+
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: black;
+  color: white;
+  padding-top: 15px;
+}
+
+.intro{
+  padding-left: 50%;
+  color: #D4AF37;
+  padding-top: 10%;
+}
